@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://oyster-app-4eiaz.ondigitalocean.app
 
-- 📝 I regularly write articles on https://oyster-app-4eiaz.ondigitalocean.app/blogs
+- 📝 I regularly write articles on https://oyster-app-4eiaz.ondigitalocean.app/blogs.html
 
 - 💬 Ask me about **Flutter**
 
