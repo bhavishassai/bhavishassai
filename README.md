@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 👨‍💻 All of my projects are available at [https://oyster-app-4eiaz.ondigitalocean.app/](www.example.com)
+- 👨‍💻 All of my projects are available at [https://oyster-app-4eiaz.ondigitalocean.app/]([www.example.com](https://oyster-app-4eiaz.ondigitalocean.app/))
 
-- 📝 I regularly write articles on [https://oyster-app-4eiaz.ondigitalocean.app/blogs](www.portfolio.com/blogs)
+- 📝 I regularly write articles on [https://oyster-app-4eiaz.ondigitalocean.app/blogs]([www.portfolio.com/blogs](https://oyster-app-4eiaz.ondigitalocean.app/))
 
 - 💬 Ask me about **Flutter**
 
