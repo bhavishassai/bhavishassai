@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Bhavish</h1>
-<h3 align="center">A passionate flutter developer from Mangaluru,India</h3>
+<h3 align="center">I am a computer science student from Mangaluru, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavishassai&label=Profile%20views&color=0e75b6&style=flat" alt="bhavishassai" /> </p>
 
