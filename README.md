@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://bhavish.codes
 
-- 📝 I regularly write articles on https://bhavish.codes/blogs.html
+- 📝 I write articles on https://medium.com/@bhavishslc
 
 - 💬 Ask me about **Flutter**
 
