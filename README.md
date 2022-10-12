@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@a_bhavish" target="blank"><img src="https://img.shields.io/twitter/follow/a_bhavish?logo=twitter&style=for-the-badge" alt="@a_bhavish" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Firebase and Google Cloud**
 
 - 👨‍💻 All of my projects are available at https://bhavish.codes
 
