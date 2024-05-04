@@ -1,17 +1,17 @@
 <h1 align="center">Hey there! 👋, I'm Bhavish</h1>
-<h3 align="center">I am a computer science student from Mangaluru, India.</h3>
+<h3 align="center">I am currently working as Associate Systems Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavishassai&label=Profile%20views&color=0e75b6&style=flat" alt="bhavishassai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@a_bhavish" target="blank"><img src="https://img.shields.io/twitter/follow/a_bhavish?logo=twitter&style=for-the-badge" alt="@a_bhavish" /></a> </p>
 
-- 🌱 I’m currently learning **React , Firebase and AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at https://bhavish.codes
 
 - 📝 I write articles on https://medium.com/@bhavishslc
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Python , Shell Scripting , Linux , Unix , AWS**
 
 - 📫 How to reach me **bhavishslc@gmail.com**
 
