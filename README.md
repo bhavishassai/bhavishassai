@@ -11,7 +11,7 @@
 
 - 📝 I write articles on https://medium.com/@bhavishslc
 
-- 💬 Ask me about **Python , Shell Scripting , Linux , Unix , AWS**
+- 💬 Ask me about **Python , Shell Scripting , Linux , Unix , AWS, Flutter**
 
 - 📫 How to reach me **bhavishslc@gmail.com**
 
